@@ -1,0 +1,23 @@
+/* 
+    Document   : custom
+    Created on : Nov 11, 2013, 5:05:16 PM
+    Author     : Rob
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+.createDestDiv{
+border:2px solid;
+border-radius:25px;
+
+}
+textarea {
+  resize: none;
+}
+
+body{
+    padding: 30px
+}

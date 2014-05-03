@@ -1,0 +1,19 @@
+
+.overview{
+   margin-left:auto;
+   margin-right:auto;
+   width:75%;
+   padding-bottom:20px;
+   text-align: center;
+}
+
+.footer{
+   padding-top: 10px;
+   text-align: center; 
+   color:#C0C0C0;
+}
+
+.mainContent{
+}
+
+body { padding-bottom: 70px; }

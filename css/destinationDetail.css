@@ -1,0 +1,36 @@
+/* 
+    Document   : DestinationDetail
+    Created on : Nov 12, 2013, 11:19:59 AM
+    Author     : Strebek
+    Description:
+        Purpose of the stylesheet follows.
+*/
+root { 
+}
+div{
+}
+.top{
+}
+#info{
+    display:inline-block;
+    //position:absolute;
+    margin-left:10px;
+    margin-top:-25px;
+}
+#photo{
+    float:left;
+}
+#destReviews{
+    display:block;
+    clear:both;
+}
+#tooper{
+    display:block;
+}
+#media{
+    display:block;
+}
+#mainphoto{
+    margin-left:auto;
+    margin-right:auto;
+}
