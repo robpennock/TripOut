@@ -6,6 +6,6 @@ my work includes Views: signIn, signUp, createDestination, about, and all corres
 
 Also helped with various parts of DAOs, and Models.    
 
-Involved in development from concept to deployment Wireframes were my friend!
+Involved in development from concept to deployment.
 
 Entire site developed focusing on Agile development and UCD
